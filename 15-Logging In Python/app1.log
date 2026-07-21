@@ -1,0 +1,14 @@
+2026-04-14 14:50:38-Arithmetic App-DEBUG-Adding 10 + 5 = 15
+2026-04-14 14:50:38-Arithmetic App-DEBUG-Subtract 10 - 5 = 5
+2026-04-14 14:50:38-Arithmetic App-DEBUG-Multiply 10 * 5 = 50
+2026-04-14 14:50:38-Arithmetic App-ERROR-Division By Zero
+2026-04-14 14:50:53-Arithmetic App-DEBUG-Adding 10 + 5 = 15
+2026-04-14 14:50:53-Arithmetic App-DEBUG-Subtract 10 - 5 = 5
+2026-04-14 14:50:53-Arithmetic App-DEBUG-Multiply 10 * 5 = 50
+2026-04-14 14:50:53-Arithmetic App-DEBUG-Divide 10 / 5 = 2.0
+2026-04-14 14:50:53-Arithmetic App-ERROR-Division By Zero
+2026-04-14 14:50:54-Arithmetic App-DEBUG-Adding 10 + 5 = 15
+2026-04-14 14:50:54-Arithmetic App-DEBUG-Subtract 10 - 5 = 5
+2026-04-14 14:50:54-Arithmetic App-DEBUG-Multiply 10 * 5 = 50
+2026-04-14 14:50:54-Arithmetic App-DEBUG-Divide 10 / 5 = 2.0
+2026-04-14 14:50:54-Arithmetic App-ERROR-Division By Zero
